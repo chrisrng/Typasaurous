@@ -1,0 +1,9 @@
+Typasaurous
+
+Download: https://itunes.apple.com/ca/app/typasaurous/id463174752?mt=8
+
+Fan Tutorial: http://www.showme.com/sh/?h=28Px0eO
+
+Thanks to https://github.com/enormego/EGOTextView for the rich-text editting in this app. 
+
+Link to team member: https://github.com/jliang87
